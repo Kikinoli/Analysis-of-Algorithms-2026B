@@ -1,6 +1,6 @@
 git add .
 
-git remote add origin https://vscode.dev/github/Kikinoli/Analysis-of-Algorithms-2026B
+git remote add origin https://github.com/Kikinoli/Analysis-of-Algorithms-2026B
 git commit -m "mi primer commit"
 git config user.email zunigaenrique355@gmail.com
 git push --set-upstream origin master
