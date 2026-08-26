@@ -4,7 +4,7 @@ import tkinter as tk
 def saludar():
     nombre = entrada.get().strip()
     if not nombre:
-        nombre = "mundo"
+        nombre = "Enrique"
     lbl.config(text=f"¡Hola, {nombre}!")
 
 root = tk.Tk()
